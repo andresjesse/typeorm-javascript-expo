@@ -1,5 +1,7 @@
 This is a minimal example of using **TypeORM** with **Expo** (SQLite) and **Javascript** ES6 (not TypeScript!).
 
+This EntitySchema-based strategy also works in TypeScript if you don't want to use Experimental Decorators.
+
 Video (PT-BR): https://youtu.be/Y1MZS4R-vKo
 
 **Setup**:
